@@ -1,0 +1,1 @@
+an eye controlled mouse using opencv, mediapipe, and pyautogui
